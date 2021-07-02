@@ -1418,6 +1418,7 @@ td {
   .main-content .procedures {
     padding: 4rem 2rem; }
     .main-content .procedures .procedures-text {
+      padding-left: 150px;
       grid-template-columns: 1fr; } }
 
 @media (max-width: 428px) {
