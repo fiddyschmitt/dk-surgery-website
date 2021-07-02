@@ -1394,7 +1394,7 @@ td {
 
 @media (max-width: 748px) {
   .main-content .procedures .procedures-text {
-    grid-template-columns: 1fr 1fr; } }
+    grid-template-columns: 1fr; } }
 
 @media (max-width: 648px) {
   .main-content .about-section {
