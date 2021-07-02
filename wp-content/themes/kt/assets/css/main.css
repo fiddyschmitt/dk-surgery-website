@@ -508,7 +508,6 @@ html, body {
 html.loading {
   /* Replace #333 with the background-color of your choice */
   /* Replace loading.gif with the loading image of your choice */
-  background: #333 url("https://www.drkellythornbury.com.au/wp-content/themes/kelly-thornbury/assets/css/loading.gif") no-repeat 50% 50%;
   /* Ensures that the transition only runs in one direction */
   -webkit-transition: background-color 0;
   transition: background-color 0; }
@@ -550,7 +549,7 @@ textarea {
 @font-face {
   font-family: 'Tiempos Fine';
   src: url("../fonts/TiemposFineWeb-Light.eot");
-  src: url("https://www.drkellythornbury.com.au/wp-content/themes/kelly-thornbury/assets/fonts/text-indent: ;mposFineWeb-Light.eot?") format("embedded-opentype"), url("../fonts/TiemposFineWeb-Light.woff2") format("woff2"), url("../fonts/TiemposFineWeb-Light.woff") format("woff"); }
+  src: url("wp-content/themes/kt/assets/fonts/text-indent: ;mposFineWeb-Light.eot?") format("embedded-opentype"), url("../fonts/TiemposFineWeb-Light.woff2") format("woff2"), url("../fonts/TiemposFineWeb-Light.woff") format("woff"); }
 
 /**
  * Basic typography style for copy text
