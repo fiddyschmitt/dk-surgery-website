@@ -1375,10 +1375,6 @@ td {
   #wrapper .desktop {
     display: inherit; } }
 
-@media (max-width: 1126px) {
-  .footer .footer-content {
-    grid-template-columns: 1fr 1fr; } }
-
 @media (max-width: 1024px) {
   .main-content .procedures,
   .header {
