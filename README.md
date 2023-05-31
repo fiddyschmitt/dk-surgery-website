@@ -1,3 +1,3 @@
 # dk-surgery-website
 
-https://www.drdianakennedy.com/
+https://drdianakennedy.com/
